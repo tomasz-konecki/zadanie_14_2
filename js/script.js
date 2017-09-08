@@ -42,7 +42,7 @@ var movies = [{
     }
 ];
 
-var moviesElements = movies.map(function(movie) {
+var moviesElements = movies.map((movie) => {
     return React.createElement('li', {
             key: movie.id
         },
