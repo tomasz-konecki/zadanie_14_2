@@ -28,7 +28,6 @@ ul li {
     padding: 10px;
     background: #bee5e5;
     border-right: 1px solid grey;
-    height: ;
 }
 ul li:nth-of-type(even) {
     background: #d2efef;
